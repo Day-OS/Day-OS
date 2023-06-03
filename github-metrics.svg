@@ -9,7 +9,7 @@
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/png;base64,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" width="20" height="20" />
-                    <span>DayOS</span>
+                    <span>Daniela</span>
                 </h1>
                 <div class="row">
                     <section>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    70.9k added, 11.4k removed
+                                    88.5k added, 25.2k removed
                                 </div>
                             </section>
                             <section>
@@ -1753,7 +1753,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jun 2023, 00:18:05 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Jun 2023, 01:11:15 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
