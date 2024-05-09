@@ -17,7 +17,7 @@
 ![MDB](https://img.shields.io/badge/MongoDB-d27380?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-d27380?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-d27380?style=for-the-badge&logo=spigotmc&logoColor=white)
-![Spigot](https://img.shields.io/badge/Godot-d27380?style=for-the-badge&logo=godotengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-d27380?style=for-the-badge&logo=godotengine&logoColor=white)
 
 <!-- Stop looking at my source... i'm shy... -->
-<!-- Oh yeah, right! my profile is inspired in the website https://fauux.neocities.org, as I'm a big fan!>
+<!-- Oh yeah, right! my profile is inspired in the website https://fauux.neocities.org, as I'm a big fan! -->
