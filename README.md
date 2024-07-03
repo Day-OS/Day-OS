@@ -5,12 +5,13 @@
 
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=d27380)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=d27380)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c%23&logoColor=d27380)
 ![TS](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=d27380)
 ![JS](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=d27380)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=d27380)
 ![KT](https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=d27380)
 ![LUA](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=d27380)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=d27380)
 ![SH](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=d27380)
 
 ![LINUX](https://img.shields.io/badge/Linux-d27380?style=for-the-badge&logo=archlinux&logoColor=white)
