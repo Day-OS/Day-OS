@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0&height=300&section=header&text=Welcome!%20ᕙ(`▽´)ᕗ&desc=Make%20yourself%20at%20home...%20^^&fontSize=90&fontAlignY=30&fontColor=d27380&animation=twinkling&descAlign=67&descSize=40)
 <img width="300" alt="fidget spinner" src="nullptr.gif" align="right">
 
-
+[![wakatime](https://wakatime.com/badge/user/018e9129-f7f5-4276-98d3-3d616da1755b.svg?style=for-the-badge)](https://wakatime.com/@018e9129-f7f5-4276-98d3-3d616da1755b)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=d27380)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c%23&logoColor=d27380)
